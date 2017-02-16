@@ -1,0 +1,6 @@
+-setcookie beerhere
+
+## Start the Elixir shell
+-noshell
+-user Elixir.IEx.CLI
+-extra --no-halt
